@@ -13,5 +13,6 @@ String name;
    }
 
    void sleeping() {
+   System.out.println("sleeping");
    }
 }
