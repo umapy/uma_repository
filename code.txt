@@ -2,6 +2,7 @@ public class Dog {
    String breed;
    int age;
    String color;
+String name;
 
    void barking() {
 	System.out.println("barking");
