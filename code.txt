@@ -9,7 +9,7 @@ String name;
    }
 
    void hungry() {
-	System.out.println("hungry");
+	System.out.println("hungry 1");
    }
 
    void sleeping() {
